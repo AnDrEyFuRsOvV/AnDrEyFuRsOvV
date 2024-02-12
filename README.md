@@ -3,14 +3,7 @@
 **HI THERE**
 
 
-i wanna tell you a litlle about me if("you wanna know this" === true){
-    So im a really good person and i think im am Kool
-    Ohfsijdjf
-    fmsdfsdfa
-    dsfasdf
-    dsfa
-    dfdsfffff
-} 
+i wanna tell you a litlle about me if("you wanna know this" === true)
 
 
 
