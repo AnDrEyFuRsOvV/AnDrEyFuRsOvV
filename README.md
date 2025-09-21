@@ -71,10 +71,9 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
 <a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&hide_border=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&hide_border=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnDrEyFuRsOvV&theme=dark)
-
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&hide_border=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&hide_border=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnDrEyFuRsOvV&theme=transparent&hide_border=true)
 
 
 </a>
