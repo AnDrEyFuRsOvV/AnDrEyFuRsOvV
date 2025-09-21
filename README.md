@@ -1,7 +1,7 @@
 # Hi! I'm Andrew Fursov🤙
 
 <p style="font-size: 18px">
-Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications.  
+Frontend Developer passionate about modern technologies 💻, UI/UX 🎨, and building high-quality web applications ⚡.  
 I love working on real projects, learning new tools fast, and constantly improving my code and skills.
 </p>
  
@@ -43,12 +43,12 @@ I love working on real projects, learning new tools fast, and constantly improvi
   <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white"/>
 </p>
 
-### <span >📚 Currently Learning</span>  
+<!-- ### <span >📚 Currently Learning</span>  
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-</p>
+</p> -->
 
 ---
 
