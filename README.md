@@ -1,5 +1,5 @@
 <!-- Header -->
-<div>
+<div style="height: 600px;">
   <span>
     <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov"  />
   </span>
