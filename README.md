@@ -1,56 +1,65 @@
 <!-- Header -->
 <p align="center">
   <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov" />
-  <img src="./asets/MyGif.gif" width="120" alt="Rotating Logo" />
+  <img src="./asets/MyGif.gif" alt="Rotating Logo" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## <span >🚀 Tech Stack</span>
 
-### 🖥️ Core  
+### <span >🖥️ Frontend</span>  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Tools  
+### <span>🛠️ Tools</span>  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" alt="Chrome DevTools"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="50" alt="Gulp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black"/>
 </p>
 
 ---
 
-### ⚡ Additional  
+### <span >⚡ Additional</span>  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" alt="Jest"/>
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="50" alt="Cypress"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" width="50" alt="Responsive Design"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" alt="SEO"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-000000?logo=responsive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white"/>
 </p>
 
 ---
 
-<img src="./asets/MyTitle.png" width="120" alt="Find me" />
+## <span >📚 Currently Learning</span>  
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
+
+---
+
+<img src="./asets/MyTitle.png" alt="Find me" />
 <p align="center">
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -63,22 +72,24 @@
 
 ---
 
-## 📊 My Statistics
+## <span >📊 My Statistics</span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&theme=radical" alt="GitHub Streak"/>
-</p>
+<a href="http://www.github.com/AnDrEyFuRsOvV">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/AnDrEyFuRsOvV">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+
+<a href="http://www.github.com/AnDrEyFuRsOvV">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
