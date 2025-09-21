@@ -69,15 +69,11 @@
 
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
+
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
-  <a href="http://www.github.com/AnDrEyFuRsOvV">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
 
 ---
 
