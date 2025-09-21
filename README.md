@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andriy Fursov
-======================================================================================================================================
+<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andriy Fursov</h1>
+
 <p>
   Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications.  
   I love working on real projects, learning new tools fast, and constantly improving my code and skills.
