@@ -1,9 +1,23 @@
-<!-- Header -->
-<!-- <div style="height: 600px;">
-  <span>
-    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 523px; margin-right: 10px;" />
-  </span>
-</div> -->
+<h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 2em; font-weight: bold; display: inline-block; overflow: hidden; border-right: .15em solid #333; white-space: nowrap; animation: typing 3s steps(30, end), blink-caret .75s step-end infinite;">
+  Hi! I'm Andriy Fursov 👋
+</h1>
+
+<p style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 1.1em; color: #555; max-width: 600px;">
+  Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications.  
+  I love working on real projects, learning new tools fast, and constantly improving my code and skills.
+</p>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 20ch; } /* длина текста в символах */
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #333 }
+}
+</style>
 
 ## <span >🚀 Tech Stack</span>
 
@@ -65,7 +79,7 @@
 
 ## <span >📊 My Statistics</span>
 
-<div>
+<div align="center">
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
     </a>
@@ -88,7 +102,7 @@
 </p> -->
 
 <p align="center">
-    <img src="./asets/MyGif.gif" alt="Rotating Logo" />
+    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 250px; />
 </p>
 
 
