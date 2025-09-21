@@ -1,12 +1,6 @@
 # Hi! I'm Andrew Fursov 🤙
 
-<p>
-  💻 Frontend developer | 🎨 UI/UX Enthusiast | ⚡ Modern Tech Lover  
-
-🚀 I love working on real projects
-📚 Learning new tools fast
-💡 Constantly improving my code and skills
-</p>
+## Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications. I love working on real projects, learning new tools fast, and constantly improving my code and skills.
 
 ## <span >🚀 Tech Stack</span>
 
