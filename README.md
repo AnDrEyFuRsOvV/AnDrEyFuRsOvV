@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center" style="display:flex; gap:20px; justify-content:center;">
-  <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov" width="300"/>
-  <img src="./asets/MyGif.gif" alt="Rotating Logo" width="150"/>
+  <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov"/>
+  <img src="./asets/MyGif.gif" alt="Rotating Logo"/>
 </div>
 
 
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white"/>
 </p>
 
-## <span >📚 Currently Learning</span>  
+### <span >📚 Currently Learning</span>  
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
@@ -65,17 +65,21 @@
 
 ## <span >📊 My Statistics</span>
 
-<a href="http://www.github.com/AnDrEyFuRsOvV">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/AnDrEyFuRsOvV">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
-</a>
-
-<a href="http://www.github.com/AnDrEyFuRsOvV">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<div>
+  <a href="http://www.github.com/AnDrEyFuRsOvV">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+    </a>
+</div>
+<div>
+  <a href="https://github.com/AnDrEyFuRsOvV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
+    </a>
+</div>
+<div>
+  <a href="http://www.github.com/AnDrEyFuRsOvV">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+</div>
 
 ---
 
