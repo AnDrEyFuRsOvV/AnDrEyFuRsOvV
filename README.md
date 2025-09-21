@@ -74,7 +74,9 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
 
 <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AnDrEyFuRsOvV&theme=dark&background=000000&hide_border=false&border=FFFFFF&ring=00C0FF&fire=00C0FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
-
+  
+  <img src="./asets/MyGif.gif"/>
+  
   <!-- Stats Overview -->
   <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&theme=dark&bg_color=000000&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=00C0FF" height="170"/>
 
