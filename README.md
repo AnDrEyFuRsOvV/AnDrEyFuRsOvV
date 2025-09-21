@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnDrEyFuRsOvV.AnDrEyFuRsOvV">
+
 # Hi! I'm Andrew Fursov🤙
 
 <p style="font-size: 18px">
