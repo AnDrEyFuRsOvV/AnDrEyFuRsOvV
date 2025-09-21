@@ -67,7 +67,15 @@
 
 ## <span >📊 My Statistics</span>
 
-<div align="center">
+
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<!-- <div align="center">
 
 
   <a href="https://github.com/AnDrEyFuRsOvV">
@@ -83,7 +91,7 @@
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
-</div>
+</div> -->
 
 ---
 
@@ -91,10 +99,9 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
----
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/AnDrEyFuRsOvV">
     <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
-</p>
+</p> -->
