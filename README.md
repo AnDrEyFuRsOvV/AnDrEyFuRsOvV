@@ -1,6 +1,6 @@
-# Hi! I'm Andrew Fursov 🤙
+# Hi! I'm Andrew Fursov🤙
 
-<p style="font-size:18px">
+<p style="font-size: 18px">
 Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications.  
 I love working on real projects, learning new tools fast, and constantly improving my code and skills.
 </p>
