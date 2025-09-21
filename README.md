@@ -1,14 +1,12 @@
 <!-- Header -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./asets/MyDescription.jpg" alt="Hi! I'm Andriy Fursov" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="./asets/MyGif.gif" alt="Rotating Logo" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; width: 100%;">
+  <div style="flex: 1; text-align: center;">
+    <img src="./asets/MyDescription.jpg" alt="Hi! I'm Andriy Fursov" style="width: 100%; max-width: 400px;" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 100%; max-width: 400px;" />
+  </div>
+</div>
 
 ## <span >🚀 Tech Stack</span>
 
