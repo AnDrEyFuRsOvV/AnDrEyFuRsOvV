@@ -4,7 +4,7 @@
     <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov"  />
   </span>
   <span>
-    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 200px;" />
+    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 200px;" align="center"/>
   </span>
 </div>
 
