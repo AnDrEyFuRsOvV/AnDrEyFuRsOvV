@@ -1,8 +1,8 @@
-<h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 2em; font-weight: bold; display: inline-block; overflow: hidden; border-right: .15em solid #333; white-space: nowrap; animation: typing 3s steps(30, end), blink-caret .75s step-end infinite;">
-  Hi! I'm Andriy Fursov 👋
+<h1>
+  Hi! I'm Andriy Fursov ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </h1>
 
-<p style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 1.1em; color: #555; max-width: 600px;">
+<p>
   Frontend Developer passionate about modern technologies, UI/UX, and building high-quality web applications.  
   I love working on real projects, learning new tools fast, and constantly improving my code and skills.
 </p>
@@ -71,13 +71,11 @@
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
     </a>
-</div>
-<div>
+
   <a href="https://github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
     </a>
-</div>
-<div>
+
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
