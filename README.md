@@ -1,7 +1,7 @@
 <!-- Header -->
 <div style="height: 600px;">
   <span>
-    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov"  />
+    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 523px; margin-right: 10px;" />
   </span>
   <span>
     <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 290px;" align="top"/>
