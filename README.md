@@ -1,10 +1,10 @@
 <!-- Header -->
 <div>
   <span>
-    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 100%; max-width: 400px;" />
+    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" />
   </span>
   <span>
-    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 100%; max-width: 400px;" />
+    <img src="./asets/MyGif.gif" alt="Rotating Logo" />
   </span>
 </div>
 
