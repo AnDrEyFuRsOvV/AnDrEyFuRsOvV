@@ -1,15 +1,14 @@
 <!-- Header -->
-<p align="center">
-  <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov" />
-  <img src="./asets/MyGif.gif" alt="Rotating Logo" />
-</p>
+<div align="center" style="display:flex; gap:20px; justify-content:center;">
+  <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov" width="300"/>
+  <img src="./asets/MyGif.gif" alt="Rotating Logo" width="150"/>
+</div>
 
----
 
 ## <span >🚀 Tech Stack</span>
 
 ### <span >🖥️ Frontend</span>  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
@@ -20,10 +19,8 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"/>
 </p>
 
----
-
 ### <span>🛠️ Tools</span>  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
@@ -34,10 +31,8 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black"/>
 </p>
 
----
-
 ### <span >⚡ Additional</span>  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
@@ -48,10 +43,8 @@
   <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white"/>
 </p>
 
----
-
 ## <span >📚 Currently Learning</span>  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
@@ -69,8 +62,6 @@
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
----
 
 ## <span >📊 My Statistics</span>
 
