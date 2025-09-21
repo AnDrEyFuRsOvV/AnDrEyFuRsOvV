@@ -68,7 +68,7 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
 ## <span >📊 My Statistics</span>
 
 
-<div align="center">
+<div>
 
 
 
@@ -79,7 +79,7 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
   <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&theme=dark&bg_color=000000&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=00C0FF" height="170"/>
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&theme=dark&bg_color=000000&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" height="170" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&theme=dark&bg_color=000000&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" height="170" align="center" />
 
 </div>
 
