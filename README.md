@@ -2,7 +2,7 @@
 
 <p style="font-size: 18px">
 Frontend Developer passionate about modern technologies 💻, UI/UX, and building high-quality web applications ⚡.  
-I love working on real projects 🎨, learning new tools fast 📚, and constantly improving my code and skills
+I love working on real projects 🎨, learning new tools fast 📚, and constantly improving my code and skills 💡
 </p>
  
 ## <span >🚀 Tech Stack</span>
@@ -79,9 +79,3 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-
-<!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/AnDrEyFuRsOvV">
-    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p> -->
