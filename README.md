@@ -7,18 +7,6 @@
   I love working on real projects, learning new tools fast, and constantly improving my code and skills.
 </p>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 20ch; } /* длина текста в символах */
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #333 }
-}
-</style>
-
 ## <span >🚀 Tech Stack</span>
 
 ### <span >🖥️ Frontend</span>  
