@@ -3,6 +3,7 @@
   <span>
     <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 523px; margin-right: 10px;" />
   </span>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 290px;" align="top"/>
   </span>
