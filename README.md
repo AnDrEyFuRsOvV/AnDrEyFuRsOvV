@@ -1,11 +1,11 @@
 <!-- Header -->
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center; width: 100%;">
-  <div style="flex: 1; text-align: center;">
-    <img src="./asets/MyDescription.jpg" alt="Hi! I'm Andriy Fursov" style="width: 100%; max-width: 400px;" />
-  </div>
-  <div style="flex: 1; text-align: center;">
+<div>
+  <span>
+    <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 100%; max-width: 400px;" />
+  </span>
+  <span>
     <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 100%; max-width: 400px;" />
-  </div>
+  </span>
 </div>
 
 ## <span >🚀 Tech Stack</span>
