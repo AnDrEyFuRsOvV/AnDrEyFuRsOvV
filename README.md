@@ -1,9 +1,14 @@
 <!-- Header -->
-<div align="center" style="display:flex; gap:20px; justify-content:center;">
-  <img src="./asets/Group 34.png" alt="Hi! I'm Andriy Fursov"/>
-  <img src="./asets/MyGif.gif" alt="Rotating Logo"/>
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./asets/MyDescription.jpg" alt="Hi! I'm Andriy Fursov" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="./asets/MyGif.gif" alt="Rotating Logo" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ## <span >🚀 Tech Stack</span>
 
