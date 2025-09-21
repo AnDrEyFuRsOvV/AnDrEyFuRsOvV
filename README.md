@@ -1,5 +1,5 @@
 <h1>
-  Hi! I'm Andriy Fursov 🤙
+  Hi! I'm Andrew Fursov 🤙
 </h1>
 
 <p>
