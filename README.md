@@ -68,13 +68,19 @@
 ## <span >📊 My Statistics</span>
 
 <div align="center">
+
+
+<div>
+  <a href="https://github.com/AnDrEyFuRsOvV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
+    </a>
+    </div>
+    
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
     </a>
 
-  <a href="https://github.com/AnDrEyFuRsOvV">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&layout=compact" alt="Top Languages" />
-    </a>
+
 
   <a href="http://www.github.com/AnDrEyFuRsOvV">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnDrEyFuRsOvV&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
