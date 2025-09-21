@@ -88,15 +88,11 @@
 </div>
 
 ---
-<!-- 
+
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p> -->
-
-<p align="center">
-    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 250px; />
 </p>
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/AnDrEyFuRsOvV">
