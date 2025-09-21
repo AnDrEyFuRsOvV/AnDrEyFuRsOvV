@@ -1,13 +1,9 @@
 <!-- Header -->
-<div style="height: 600px;">
+<!-- <div style="height: 600px;">
   <span>
     <img src="./asets/MyDescription.png" alt="Hi! I'm Andriy Fursov" style="width: 523px; margin-right: 10px;" />
   </span>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="./asets/MyGif.gif" alt="Rotating Logo" style="width: 290px;" align="top"/>
-  </span>
-</div>
+</div> -->
 
 ## <span >🚀 Tech Stack</span>
 
@@ -86,12 +82,15 @@
 </div>
 
 ---
-
+<!-- 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p> -->
+
+<p align="center">
+    <img src="./asets/MyGif.gif" alt="Rotating Logo" />
 </p>
 
----
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/AnDrEyFuRsOvV">
