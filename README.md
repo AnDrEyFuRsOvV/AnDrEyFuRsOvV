@@ -66,7 +66,7 @@ I love working on real projects 🎨, learning new tools fast 📚, and constant
 ## <span >📊 My Statistics</span>
 
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=AnDrEyFuRsOvV&show_icons=true&hide_border=true&theme=transparent)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDrEyFuRsOvV&layout=compact&hide_border=true&theme=transparent)
